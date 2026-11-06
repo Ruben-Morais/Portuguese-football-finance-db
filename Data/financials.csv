@@ -1,0 +1,190 @@
+club,season,category,line_item,amount_eur_m,source_page,notes
+Benfica,2025/26,Revenue,Matchday,45.250,p. 78,
+Benfica,2025/26,Revenue,Commercial,56.561,p. 78,
+Benfica,2025/26,Revenue,TV and media,112.601,p. 78,
+Benfica,2025/26,Revenue,Player trading,110.387,p. 25,gross gains and other income from player rights
+Benfica,2025/26,Cost,Player trading costs,11.039,p. 25,
+Benfica,2025/26,Cost,Wages,126.353,p. 78,
+Benfica,2025/26,Cost,Player amortisation,51.934,p. 78,includes impairment losses
+Benfica,2025/26,Result,Operating result excl. player rights,-14.989,p. 78,
+Benfica,2025/26,Result,Operating result,32.425,p. 78,
+Benfica,2025/26,Result,Net result,19.123,p. 78,
+Benfica,2025/26,Balance sheet,Total debt,193.745,p. 27,borrowings only; excludes TV-income assignment of 39.3
+Benfica,2025/26,Balance sheet,Cash,8.863,p. 78,
+Benfica,2025/26,Balance sheet,Equity,135.521,p. 78,
+Benfica,2025/26,Balance sheet,Player registrations,163.962,p. 78,
+Benfica,2025/26,Balance sheet,Current assets,155.054,p. 78,
+Benfica,2025/26,Balance sheet,Current liabilities,260.116,p. 78,
+Benfica,2025/26,Balance sheet,Current borrowings,51.178,p. 94,
+Benfica,2025/26,Balance sheet,Player-sale receivables,178.5,p. 27,from chart; one decimal
+Benfica,2025/26,Balance sheet,Payables to clubs,219.6,p. 27,from chart; one decimal
+Benfica,2025/26,Cash flow,Operating cash flow,-73.410,p. 79,
+
+Benfica,2024/25,Revenue,Matchday,41.703,p. 78,
+Benfica,2024/25,Revenue,Commercial,40.908,p. 78,
+Benfica,2024/25,Revenue,TV and media,148.007,p. 78,
+Benfica,2024/25,Revenue,Player trading,117.338,p. 25,
+Benfica,2024/25,Cost,Player trading costs,28.428,p. 25,
+Benfica,2024/25,Cost,Wages,127.713,p. 78,
+Benfica,2024/25,Cost,Player amortisation,42.171,p. 78,includes impairment losses
+Benfica,2024/25,Result,Operating result excl. player rights,3.871,p. 78,
+Benfica,2024/25,Result,Operating result,50.610,p. 78,
+Benfica,2024/25,Result,Net result,34.444,p. 78,
+Benfica,2024/25,Balance sheet,Total debt,203.299,p. 27,
+Benfica,2024/25,Balance sheet,Cash,6.376,p. 78,
+Benfica,2024/25,Balance sheet,Equity,116.317,p. 78,
+Benfica,2024/25,Balance sheet,Player registrations,131.210,p. 78,
+Benfica,2024/25,Balance sheet,Current assets,120.940,p. 78,
+Benfica,2024/25,Balance sheet,Current liabilities,249.450,p. 78,
+Benfica,2024/25,Balance sheet,Current borrowings,60.368,p. 94,
+Benfica,2024/25,Balance sheet,Player-sale receivables,161.3,p. 27,from chart; one decimal
+Benfica,2024/25,Balance sheet,Payables to clubs,183.8,p. 27,from chart; one decimal
+Benfica,2024/25,Cash flow,Operating cash flow,-20.242,p. 79,
+
+Benfica,2023/24,Revenue,Matchday,35.462,p. 112 (2023/24 report),statement of profit or loss; replaces chart value 35.5
+Benfica,2023/24,Revenue,Commercial,42.412,p. 112 (2023/24 report),statement of profit or loss; replaces chart value 39.9 which did not match the statement
+Benfica,2023/24,Revenue,TV and media,101.170,p. 112 (2023/24 report),statement of profit or loss; replaces chart value 101.2
+Benfica,2023/24,Revenue,Player trading,77.329,p. 25,
+Benfica,2023/24,Cost,Player trading costs,18.927,p. 25,
+Benfica,2023/24,Cost,Wages,110.518,p. 112 (2023/24 report),replaces 114.939 which does not appear in the 2023/24 report
+Benfica,2023/24,Cost,Player amortisation,44.945,p. 25,includes impairment losses
+Benfica,2023/24,Result,Net result,-31.360,p. 79,
+Benfica,2023/24,Balance sheet,Total debt,222.217,p. 27,
+Benfica,2023/24,Balance sheet,Cash,20.409,p. 79,
+Benfica,2023/24,Balance sheet,Equity,81.868,p. 79,
+Benfica,2023/24,Balance sheet,Player registrations,149.143,p. 89,
+Benfica,2023/24,Balance sheet,Player-sale receivables,109.2,p. 27,from chart; one decimal
+Benfica,2023/24,Balance sheet,Payables to clubs,173.7,p. 27,from chart; one decimal
+Benfica,2023/24,Result,Operating result excl. player rights,-28.251,p. 112 (2023/24 report),
+Benfica,2023/24,Result,Operating result,-14.794,p. 112 (2023/24 report),
+Benfica,2023/24,Balance sheet,Current assets,100.558,p. 111 (2023/24 report),
+Benfica,2023/24,Balance sheet,Current liabilities,209.566,p. 111 (2023/24 report),
+Benfica,2023/24,Balance sheet,Current borrowings,57.750,p. 111 (2023/24 report),
+Benfica,2023/24,Cash flow,Operating cash flow,-74.320,p. 114 (2023/24 report),
+
+Sporting,2025/26,Revenue,Matchday,29.120,p. 130,
+Sporting,2025/26,Revenue,Commercial,46.319,p. 130,
+Sporting,2025/26,Revenue,TV and media,112.267,p. 130,includes competition prize money
+Sporting,2025/26,Revenue,Player trading,112.301,p. 130,
+Sporting,2025/26,Cost,Player trading costs,16.750,p. 130,
+Sporting,2025/26,Cost,Wages,101.936,p. 130,
+Sporting,2025/26,Cost,Player amortisation,55.774,p. 130,includes impairment losses
+Sporting,2025/26,Result,Operating result excl. player rights,10.931,p. 130,
+Sporting,2025/26,Result,Operating result,50.708,p. 130,
+Sporting,2025/26,Result,Net result,34.743,p. 130,
+Sporting,2025/26,Balance sheet,Total debt,309.120,p. 129,calculated: 308.054 non-current + 1.066 current; excludes leases
+Sporting,2025/26,Balance sheet,Cash,117.883,p. 129,
+Sporting,2025/26,Balance sheet,Equity,75.596,p. 129,
+Sporting,2025/26,Balance sheet,Player registrations,236.555,p. 129,
+Sporting,2025/26,Balance sheet,Current assets,258.588,p. 129,
+Sporting,2025/26,Balance sheet,Current liabilities,187.534,p. 129,
+Sporting,2025/26,Balance sheet,Current borrowings,1.066,p. 129,
+Sporting,2025/26,Balance sheet,Player-sale receivables,53.921,p. 170-171,current player-sale balances due from clubs 28.249 + non-current 25.672; gross; excludes solidarity mechanisms and accrued sale income
+Sporting,2025/26,Balance sheet,Payables to clubs,217.192,p. 181-183,amounts due to clubs for player acquisitions: non-current 116.894 + current 100.298; gross; excludes agents
+Sporting,2025/26,Cash flow,Operating cash flow,5.297,p. 133,
+
+Sporting,2024/25,Revenue,Matchday,24.208,p. 125,
+Sporting,2024/25,Revenue,Commercial,43.854,p. 125,
+Sporting,2024/25,Revenue,TV and media,80.087,p. 125,includes competition prize money
+Sporting,2024/25,Revenue,Player trading,116.830,p. 125,
+Sporting,2024/25,Cost,Player trading costs,14.615,p. 125,
+Sporting,2024/25,Cost,Wages,87.736,p. 125,
+Sporting,2024/25,Cost,Player amortisation,50.218,p. 125,includes impairment losses
+Sporting,2024/25,Result,Operating result excl. player rights,-6.565,p. 125,
+Sporting,2024/25,Result,Operating result,45.432,p. 125,
+Sporting,2024/25,Result,Net result,20.023,p. 125,
+Sporting,2024/25,Balance sheet,Total debt,148.924,p. 124,calculated: 123.577 non-current + 25.347 current; excludes leases
+Sporting,2024/25,Balance sheet,Cash,15.581,p. 124,
+Sporting,2024/25,Balance sheet,Equity,40.928,p. 124,
+Sporting,2024/25,Balance sheet,Player registrations,137.700,p. 124,
+Sporting,2024/25,Balance sheet,Current assets,102.909,p. 124,
+Sporting,2024/25,Balance sheet,Current liabilities,165.071,p. 124,
+Sporting,2024/25,Balance sheet,Current borrowings,25.347,p. 124,
+Sporting,2024/25,Balance sheet,Player-sale receivables,18.914,p. 160-161,current player-sale balances due from clubs 8.003 + non-current 10.911; gross; excludes solidarity mechanisms and accrued sale income
+Sporting,2024/25,Balance sheet,Payables to clubs,123.227,p. 171-172,amounts due to clubs for player acquisitions: non-current 56.755 + current 66.472; gross; excludes agents
+Sporting,2024/25,Cash flow,Operating cash flow,-30.411,p. 128,
+
+
+Porto,2025/26,Revenue,Matchday,18.052,p. 168,ticket sales 10.265 + season tickets 7.787
+Porto,2025/26,Revenue,Commercial,65.570,p. 168,residual of total operating revenue 150.283: advertising + corporate hospitality + merchandising + other services/sports/income
+Porto,2025/26,Revenue,TV and media,66.661,p. 168,UEFA prize money 23.806 + broadcasting rights 42.855
+Porto,2025/26,Revenue,Player trading,96.927,p. 131,
+Porto,2025/26,Cost,Player trading costs,41.044,p. 131,
+Porto,2025/26,Cost,Wages,102.590,p. 131,
+Porto,2025/26,Cost,Player amortisation,47.484,p. 131,includes impairment losses
+Porto,2025/26,Result,Operating result excl. player rights,-29.727,p. 131,
+Porto,2025/26,Result,Operating result,2.633,p. 131,includes 23.961 gain on disposal of subsidiaries
+Porto,2025/26,Result,Net result,-21.099,p. 131,consolidated incl. non-controlling interests; attributable to parent -26.262
+Porto,2025/26,Balance sheet,Total debt,248.341,p. 161,bank + bonds at amortised cost; excludes leases 4.805
+Porto,2025/26,Balance sheet,Cash,19.538,p. 130,
+Porto,2025/26,Balance sheet,Equity,-29.667,p. 130,total equity incl. non-controlling interests; attributable to parent -119.458
+Porto,2025/26,Balance sheet,Player registrations,162.947,p. 130,
+Porto,2025/26,Balance sheet,Current assets,111.897,p. 130,
+Porto,2025/26,Balance sheet,Current liabilities,270.331,p. 130,
+Porto,2025/26,Balance sheet,Current borrowings,77.380,p. 161,
+Porto,2025/26,Balance sheet,Player-sale receivables,14.895,p. 156,current 13.782 + non-current 1.190 less 0.077 discounting
+Porto,2025/26,Balance sheet,Payables to clubs,170.919,p. 163,current 101.674 + non-current 69.245; player-transfer suppliers net of discounting
+Porto,2025/26,Cash flow,Operating cash flow,-42.336,p. 134,
+
+Porto,2024/25,Revenue,Matchday,13.587,p. 44,
+Porto,2024/25,Revenue,Commercial,64.535,p. 44,residual: advertising + merchandising + membership + other sports + other income
+Porto,2024/25,Revenue,TV and media,75.339,p. 44,UEFA prize money 17.179 + FIFA Club World Cup 17.047 + broadcasting rights 41.113
+Porto,2024/25,Revenue,Player trading,171.502,p. 128,
+Porto,2024/25,Cost,Player trading costs,71.067,p. 128,
+Porto,2024/25,Cost,Wages,90.405,p. 128,as originally reported; restated to 81.939 in 2025/26 report (IFRS)
+Porto,2024/25,Cost,Player amortisation,34.377,p. 128,includes impairment losses
+Porto,2024/25,Result,Operating result excl. player rights,-5.113,p. 128,as originally reported; restated to 2.441 in 2025/26 report (IFRS)
+Porto,2024/25,Result,Operating result,60.946,p. 128,as originally reported; restated to 68.500 in 2025/26 report (IFRS)
+Porto,2024/25,Result,Net result,34.741,p. 128,consolidated incl. non-controlling interests; attributable to club 28.279
+Porto,2024/25,Balance sheet,Total debt,272.503,p. 127,bank + bonds + other loans (mostly factoring) at amortised cost
+Porto,2024/25,Balance sheet,Cash,18.530,p. 127,
+Porto,2024/25,Balance sheet,Equity,-5.569,p. 127,total equity incl. non-controlling interests; attributable to club -31.541
+Porto,2024/25,Balance sheet,Player registrations,118.873,p. 127,
+Porto,2024/25,Balance sheet,Current assets,135.113,p. 127,
+Porto,2024/25,Balance sheet,Current liabilities,174.596,p. 127,
+Porto,2024/25,Balance sheet,Current borrowings,33.835,p. 127,
+Porto,2024/25,Balance sheet,Player-sale receivables,65.541,p. 150,current 61.140 + non-current 4.401; net of discounting
+Porto,2024/25,Balance sheet,Payables to clubs,112.925,p. 162,current 66.185 + non-current 46.740; player-transfer suppliers net of discounting
+Porto,2024/25,Cash flow,Operating cash flow,-47.066,p. 130,
+
+Porto,2023/24,Revenue,Matchday,11.855,p. 27,
+Porto,2023/24,Revenue,Commercial,61.934,p. 27,residual: advertising + merchandising + membership + other sports + other income
+Porto,2023/24,Revenue,TV and media,105.854,p. 27,UEFA prize money 65.032 + broadcasting rights 40.822
+Porto,2023/24,Revenue,Player trading,70.775,p. 56,
+Porto,2023/24,Cost,Player trading costs,29.197,p. 56,
+Porto,2023/24,Cost,Wages,101.299,p. 56,
+Porto,2023/24,Cost,Player amortisation,32.378,p. 56,includes impairment losses
+Porto,2023/24,Result,Operating result excl. player rights,-4.781,p. 56,
+Porto,2023/24,Result,Operating result,4.419,p. 56,
+Porto,2023/24,Result,Net result,-23.686,p. 56,consolidated incl. non-controlling interests; attributable to club -25.289
+Porto,2023/24,Balance sheet,Total debt,247.503,p. 110,bank + bonds + other loans (mostly factoring) at amortised cost
+Porto,2023/24,Balance sheet,Cash,3.673,p. 55,
+Porto,2023/24,Balance sheet,Equity,-105.712,p. 55,total equity incl. non-controlling interests; attributable to club -126.786
+Porto,2023/24,Balance sheet,Player registrations,102.765,p. 55,
+Porto,2023/24,Balance sheet,Current assets,45.168,p. 55,
+Porto,2023/24,Balance sheet,Current liabilities,298.618,p. 55,
+Porto,2023/24,Balance sheet,Current borrowings,113.824,p. 110,
+Porto,2023/24,Balance sheet,Player-sale receivables,24.399,p. 96-97,current 6.504 + non-current 17.895
+Porto,2023/24,Balance sheet,Payables to clubs,116.403,p. 115-116,current 91.415 + non-current 24.988; player-transfer suppliers net of discounting
+Porto,2023/24,Cash flow,Operating cash flow,15.295,p. 58,
+
+Sporting,2023/24,Revenue,Matchday,20.053,p. 125 (2024/25 report),comparative column; 2024/25 report classification
+Sporting,2023/24,Revenue,Commercial,39.494,p. 125 (2024/25 report),comparative column; 2024/25 report classification
+Sporting,2023/24,Revenue,TV and media,42.897,p. 125 (2024/25 report),includes competition prize money; comparative column
+Sporting,2023/24,Revenue,Player trading,143.499,p. 97,
+Sporting,2023/24,Cost,Player trading costs,44.245,p. 97,
+Sporting,2023/24,Cost,Wages,90.312,p. 97,
+Sporting,2023/24,Cost,Player amortisation,40.681,p. 97,includes impairment losses
+Sporting,2023/24,Result,Operating result excl. player rights,-44.030,p. 97,as originally reported; restated to -44.663 in 2024/25 report
+Sporting,2023/24,Result,Operating result,14.543,p. 97,
+Sporting,2023/24,Result,Net result,12.079,p. 97,
+Sporting,2023/24,Balance sheet,Total debt,150.264,p. 146,108.531 non-current + 41.733 current; excludes leases; replaces 159.732 which did not match the report
+Sporting,2023/24,Balance sheet,Cash,7.008,p. 96,
+Sporting,2023/24,Balance sheet,Equity,20.979,p. 96,
+Sporting,2023/24,Balance sheet,Player registrations,108.442,p. 96,
+Sporting,2023/24,Balance sheet,Current assets,93.280,p. 96,
+Sporting,2023/24,Balance sheet,Current liabilities,176.177,p. 96,
+Sporting,2023/24,Balance sheet,Current borrowings,41.733,p. 96,
+Sporting,2023/24,Balance sheet,Player-sale receivables,45.936,p. 160-161 (2024/25 report),comparative: current 23.579 + non-current 22.357; gross; excludes solidarity mechanisms and accrued sale income
+Sporting,2023/24,Balance sheet,Payables to clubs,104.734,p. 171-172 (2024/25 report),comparative: non-current 40.212 + current 64.522; gross; excludes agents
+Sporting,2023/24,Cash flow,Operating cash flow,-92.169,p. 100,

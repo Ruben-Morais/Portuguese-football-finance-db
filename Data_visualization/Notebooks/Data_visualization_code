@@ -1,0 +1,59 @@
+import sqlite3
+import pandas as pd
+import matplotlib.pyplot as plt
+
+conn = sqlite3.connect("/Users/rubenmorais/Downloads/Analytical Projects /financial management (sports)/SQL/Sports_analytics.sqlite")
+yoy = pd.read_sql("SELECT * FROM v_yoy", conn)
+ratios = pd.read_sql("SELECT * FROM v_ratios", conn)
+
+import pandas as pd
+import matplotlib.pyplot as plt
+
+colors = ["red", "blue", "green"]
+
+
+df = pd.read_sql("SELECT club_name, season, net_debt FROM v_ratios", conn)
+df_net_debt = df.pivot(index="season", columns="club_name", values="net_debt")
+df_net_debt.plot(kind="line", figsize=(10, 6), marker="o", color=colors)
+
+plt.title("Net debt of Benfica, Porto and Sporting, 2023/24 - 2025/26")
+plt.xlabel("Season")
+plt.ylabel("Net debt (€ million)")
+plt.show()
+
+df_1 = pd.read_sql("select club_name, season, core_result from v_ratios", conn)
+df_core_result = df_1.pivot(index="season", columns="club_name", values="core_result")
+df_core_result.plot(kind="line", figsize=(10, 6), marker="o", color=colors)
+
+plt.title("Core result of Benfica, Porto and Sporting, 2023/24 - 2025/26")
+plt.xlabel("Season")
+plt.ylabel("Core result (€ million)")
+plt.show()
+
+df_2 = pd.read_sql("select club_name, season, net_debt_to_revenue from v_ratios", conn)
+df_net_debt_to_revenue = df_2.pivot(index="season", columns="club_name", values="net_debt_to_revenue")
+df_net_debt_to_revenue.plot(kind="line", figsize=(10, 6), marker="o", color=colors)
+
+plt.title("Net debt to revenue of Benfica, Porto and Sporting, 2023/24 - 2025/26")
+plt.xlabel("Season")
+plt.ylabel("Net debt to revenue")
+plt.show()  
+
+df_3 = pd.read_sql("select club_name, season, operating_cash_flow from v_ratios", conn)
+df_operating_cash_flow = df_3.pivot(index="season", columns="club_name", values="operating_cash_flow")
+df_operating_cash_flow.plot(kind="line", figsize=(10, 6), marker="o", color=colors)
+
+plt.title("Operating cash flow of Benfica, Porto and Sporting, 2023/24 - 2025/26")
+plt.xlabel("Season")
+plt.ylabel("Operating cash flow (€ million)")
+plt.show()
+
+df_4 = pd.read_sql("select club_name, season, player_rights_result from v_ratios", conn)
+df_player_rights = df_4.pivot(index="season", columns="club_name", values="player_rights_result")
+df_player_rights.plot(kind="line", figsize=(10, 6), marker="o", color=colors)
+
+plt.axhline(0, color="black", linewidth=0.8)
+plt.title("Result from player trading of Benfica, Porto and Sporting, 2023/24 - 2025/26")
+plt.xlabel("Season")
+plt.ylabel("Player-rights result (€ million)")
+plt.show()
